@@ -1,0 +1,104 @@
+@font-face {
+    src: url(fonts/Aquatico\ 400.otf);
+    font-family: aquatico;
+}
+
+body {
+    background-color: rgb(200, 200, 200);
+}
+
+nav {
+    width: 100%;
+    height: 80px;
+    background-color: #1e1e1e;
+}
+
+.wrapper {
+    margin: 0 auto;
+    width: 1000px;
+}
+
+.biography {
+    font-family: 'arial';
+    line-height: 50px;
+    font-size: 35px;
+    text-align: left;
+    text-indent: 60px;
+
+}
+
+.foto {
+    width: 200px;
+    padding: 0% 39%;
+    margin-top: 0;
+}
+    
+.title1 {
+    font-family: gill sans;
+    font-weight: bold;
+    margin-top: 0;
+}
+
+ul {
+    margin-left: 25%;
+}
+
+ul li {
+        list-style: none;
+        display: inline-block;
+
+    }
+
+ul li a {
+        text-decoration: none;
+        float: left;
+        font-size: 25px;
+        padding-left: 50px;
+        text-align: center;
+        color: #fff;
+        display: block;
+    }
+
+ul li a:hover {
+    color: crimson;
+}
+
+
+a {
+    font-size: 50px;
+    line-height: 80px;
+    text-align: center;
+    font-family: helvetica;
+}
+
+h1 {
+    Color: crimson;
+    font-family: aquatico;
+    font-size: 60px;
+    text-align: center;
+    background-color: #1e1e1e;
+}
+
+h2 {
+    color: crimson;
+    font-size: 60px;
+    background-color: gainsboro;
+    text-align: center;
+    font-family: aquatico;
+}
+                                               /* Bu da css*/
+.ust {
+    font-family: aquatico;
+    font-size: 40px;
+    color: #1e1e1e;
+    text-align: center;
+}
+
+p {
+    font-size: 50px;
+    line-height: 80px;
+    text-align: center;
+    font-family: helvetica;
+
+}
+
